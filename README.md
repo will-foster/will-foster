@@ -1,4 +1,5 @@
-# Will Foster - Front End Developer
+# Will Foster
+## Front End Developer
 
 <!--
 **Will5592/will5592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
