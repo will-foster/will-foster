@@ -1,6 +1,8 @@
 # Will Foster
 ## Front End Developer
 
+I enjoy working with JS, especially React and the Next/Gatsby frameworks.
+
 <!--
 **Will5592/will5592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
